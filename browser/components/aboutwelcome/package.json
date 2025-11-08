@@ -2,7 +2,7 @@
   "description": "Task running for the about:welcome page",
   "author": "Mozilla (https://mozilla.org/)",
   "dependencies": {
-    "@fluent/bundle": "0.18.0",
+    "@fluent/bundle": "0.19.1",
     "@fluent/react": "0.15.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
